@@ -49,3 +49,4 @@ To use, press `F1` then type `Open Vue Docs` then press `Enter`, select the desi
 
 + [репозиторий](https://github.com/Titiaiev/vscode-vue-docs)
 + [баги](https://github.com/Titiaiev/vscode-vue-docs/issues)
+#1
